@@ -15,7 +15,7 @@ section{
 .banner {
   position: relative;
   min-height: 100vh;
-  background: url(images/bannerjerdasi.jpg);
+  background: url(bannerjerdasi.jpg);
   background-size: cover;
   background-position: right;
   display: flex;
@@ -307,7 +307,7 @@ svg circle:nth-child(2){
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('images/p404.png') #151729;
+  background: url('p404.png') #151729;
   box-shadow: 0 15px 30px rgba(0,0,0,.5);
   height: 90vh;
   text-align: center;
